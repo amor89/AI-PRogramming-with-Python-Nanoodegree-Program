@@ -1,1 +1,1 @@
-# AI-PRogramming-with-Python-Nanoodegree-Program
+# AI-Programming-with-Python-Nanoodegree-Program
